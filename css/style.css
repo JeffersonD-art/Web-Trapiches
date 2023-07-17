@@ -423,7 +423,6 @@ main {
 /* footer */
 
 .footer {
-
     padding: 5rem 2rem;
     display: flex;
     text-align: center;
@@ -483,9 +482,8 @@ main {
 .direccion {
     margin-bottom: 2rem;
 }
-.telefono p {
-    font-size: 1.9rem;
-    letter-spacing: 0.2rem;
+.telefono h3 {
+    margin: 0;
 }
 .linea {
     width: 100%;
