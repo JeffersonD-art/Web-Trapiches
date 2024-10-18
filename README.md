@@ -1,8 +1,12 @@
 ![image](https://github.com/JeffersonD-art/Web-Trapiches/assets/71351421/a14cfaaf-d739-4a8c-bf33-c12d593d94fa)
 
-# Projecto Personal Web Trapiches
+# Proyecto: Landing Page - Fábrica Trapiches en Madera Don Pedro
 
-_página web / Landing Page para practicar desarrollo web_
+Este proyecto consiste en una landing page diseñada y desarrollada para la Fábrica Trapiches en Madera Don Pedro, una empresa dedicada a la fabricación artesanal de trapiches en madera. La página web fue construida utilizando HTML y CSS, proporcionando una estructura limpia y un diseño visual atractivo que refleja la autenticidad y tradición de los productos.
+
+La página incluye secciones clave como la presentación de la empresa, galería de productos y detalles de contacto. Para mejorar la experiencia del usuario, se ha integrado una API de WhatsApp que permite a los visitantes realizar solicitudes y contactar directamente con la fábrica con un solo clic, facilitando la comunicación rápida y eficiente.
+
+Este proyecto destaca por su simplicidad, funcionalidad y enfoque en la conversión de usuarios interesados en los productos de la fábrica
 
 
 <!-- ##  👉[Mira el proyecto aquí](https://jeffersond-art.github.io/one-challenge-encriptador-texto/)👈 -->
